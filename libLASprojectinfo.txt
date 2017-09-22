@@ -10,7 +10,7 @@ The libLAS website goes on to say the 'only fuctionality that libLAS provides ov
 libLAS has an Open Source Initiative (OSI), "2-Clause BSD License" (SPDX short identifier: BSD-2-Clause) which permits redistribution and use in source and binary forms, with or without modification provided the two clauses are met:
 1. Redistributions of source code must retain the copyright notice (Copyright<YEAR><COPYRIGHT HOLDER>), this list of conditions, and the following disclaimer.
    THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTERS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMMED.  IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-2.  Resdistributions in binary form much reproduce the above copyright notice, this list of connditions and the following disclaimer in the documentation and/or other materials provided in the distribution.  
+2.  Resdistributions in binary form must reproduce the above copyright notice, this list of connditions and the following disclaimer in the documentation and/or other materials provided in the distribution.  
 
 #Bug reporting, feature requests, and questions
 Bug reporting is easily accessed through a link to the libLAS github repository where users can click on the "new issue" button to open an issue and contact the libLAS maintainers and community.  New feature requests seem less likely to be handled as the library is in maintainance mode currently, with only a relatively small number contributions each year since 2012.
@@ -27,10 +27,10 @@ Unknown if there are any besides Hobu, a group of software engineers in Iowa (wh
 The main repository for libLAS is on github at https://github.com/libLAS/libLAS
 and a copy of the active code can obtained with:
 git clone git://github.com/libLAS/libLAS.git liblas
-Currently the source code cannot be viewed online without using git clone process.
+The source code can be viewed online via github.
 
 #Information for contributing to the project
-Not clear from information I could find, given the 'dormant' status of the project however four of the five members of the libLAS development team have links to their contact information.
+Not clear from information I could find, given the 'dormant' status of the project however four of the five members of the libLAS development team have links to their contact information.  Since the project is on git hub submitting pull requests may be a method to contribute to the project.
 
 #Project status
 libLAS is in a self described "dormant period" of development and is in primarily a 'maintenance' mode, however there are is some proposed work or mention of work on vertical datams and use with LAS formats 1.3/1.4/2.0.  That said, in the FAQ  developeers are advised to build atop LASlib if starting a new development.  
